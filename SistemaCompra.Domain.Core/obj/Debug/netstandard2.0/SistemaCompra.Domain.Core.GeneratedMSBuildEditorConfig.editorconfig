@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SistemaCompra.Domain.Core
+build_property.ProjectDir = C:\MeusProjetos_NetCore\SistemaCompras-v3\SistemaCompra.Domain.Core\
